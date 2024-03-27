@@ -1,4 +1,4 @@
-# Foobar
+# Draw-2-Pixel
 
 Draw-2-Pixel is an AI Image-generating app with Canvas to update it.
 It is built with Fal.ai SDK.
